@@ -12,6 +12,24 @@
 		DC8949D32CF32EA400C709BE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC8949D22CF32EA400C709BE /* ContentView.swift */; };
 		DC8949D52CF32EA700C709BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC8949D42CF32EA700C709BE /* Assets.xcassets */; };
 		DC8949D82CF32EA700C709BE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC8949D72CF32EA700C709BE /* Preview Assets.xcassets */; };
+		DC8949EF2CF39B0B00C709BE /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC8949EE2CF39B0B00C709BE /* HomeView.swift */; };
+		DC8949F12CF39B2200C709BE /* LikesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC8949F02CF39B2200C709BE /* LikesView.swift */; };
+		DC8949F42CF409CE00C709BE /* Color+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC8949F32CF409CE00C709BE /* Color+Hex.swift */; };
+		DC8949FB2CF60FBC00C709BE /* FavoritesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC8949FA2CF60FBC00C709BE /* FavoritesManager.swift */; };
+		DC8949FD2CF615E100C709BE /* idioms.json in Resources */ = {isa = PBXBuildFile; fileRef = DC8949FC2CF615E100C709BE /* idioms.json */; };
+		DC8949FF2CF87F5F00C709BE /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC8949FE2CF87F5F00C709BE /* SettingsView.swift */; };
+		DC894A062CF9871300C709BE /* IdiomNotifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC894A052CF9871300C709BE /* IdiomNotifications.swift */; };
+		DC894A262CF9CE1A00C709BE /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC894A252CF9CE1900C709BE /* Helper.swift */; };
+		DC894A532CF9D7C900C709BE /* Idiom.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC894A522CF9D7C900C709BE /* Idiom.swift */; };
+		DC92D7ED2CFACBF80052B9CB /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC894A0F2CF9893C00C709BE /* WidgetKit.framework */; };
+		DC92D7EE2CFACBF80052B9CB /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC894A112CF9893C00C709BE /* SwiftUI.framework */; };
+		DC92D7F12CFACBF80052B9CB /* Temp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC92D7F02CFACBF80052B9CB /* Temp.swift */; };
+		DC92D7F32CFACBF80052B9CB /* AppIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC92D7F22CFACBF80052B9CB /* AppIntent.swift */; };
+		DC92D7F52CFACBFA0052B9CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC92D7F42CFACBFA0052B9CB /* Assets.xcassets */; };
+		DC92D7F92CFACBFA0052B9CB /* TempExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = DC92D7EC2CFACBF80052B9CB /* TempExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		DC92D7FD2CFACE4E0052B9CB /* Idiom.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC894A522CF9D7C900C709BE /* Idiom.swift */; };
+		DC92D7FF2CFAD3EF0052B9CB /* Color+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC8949F32CF409CE00C709BE /* Color+Hex.swift */; };
+		DC92D8412CFAE12F0052B9CB /* SingleIdiomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC92D8402CFAE12F0052B9CB /* SingleIdiomView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -21,6 +39,13 @@
 			proxyType = 1;
 			remoteGlobalIDString = DC8949CA2CF32EA400C709BE;
 			remoteInfo = "chinese idiom of the day Watch App";
+		};
+		DC92D7F72CFACBFA0052B9CB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DC8949BF2CF32EA400C709BE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DC92D7EB2CFACBF80052B9CB;
+			remoteInfo = TempExtension;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -36,6 +61,17 @@
 			name = "Embed Watch Content";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		DC894A212CF9893D00C709BE /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				DC92D7F92CFACBFA0052B9CB /* TempExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +81,23 @@
 		DC8949D22CF32EA400C709BE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DC8949D42CF32EA700C709BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC8949D72CF32EA700C709BE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DC8949EE2CF39B0B00C709BE /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		DC8949F02CF39B2200C709BE /* LikesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LikesView.swift; sourceTree = "<group>"; };
+		DC8949F32CF409CE00C709BE /* Color+Hex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Hex.swift"; sourceTree = "<group>"; };
+		DC8949FA2CF60FBC00C709BE /* FavoritesManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesManager.swift; sourceTree = "<group>"; };
+		DC8949FC2CF615E100C709BE /* idioms.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = idioms.json; sourceTree = "<group>"; };
+		DC8949FE2CF87F5F00C709BE /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		DC894A052CF9871300C709BE /* IdiomNotifications.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdiomNotifications.swift; sourceTree = "<group>"; };
+		DC894A0F2CF9893C00C709BE /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
+		DC894A112CF9893C00C709BE /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
+		DC894A252CF9CE1900C709BE /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		DC894A522CF9D7C900C709BE /* Idiom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Idiom.swift; sourceTree = "<group>"; };
+		DC92D7EC2CFACBF80052B9CB /* TempExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = TempExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC92D7F02CFACBF80052B9CB /* Temp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Temp.swift; sourceTree = "<group>"; };
+		DC92D7F22CFACBF80052B9CB /* AppIntent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppIntent.swift; sourceTree = "<group>"; };
+		DC92D7F42CFACBFA0052B9CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DC92D7F62CFACBFA0052B9CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC92D8402CFAE12F0052B9CB /* SingleIdiomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleIdiomView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,13 +108,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		DC92D7E92CFACBF80052B9CB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC92D7EE2CFACBF80052B9CB /* SwiftUI.framework in Frameworks */,
+				DC92D7ED2CFACBF80052B9CB /* WidgetKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
 		DC8949BE2CF32EA400C709BE = {
 			isa = PBXGroup;
 			children = (
+				DC894A502CF9D79700C709BE /* Shared */,
 				DC8949CF2CF32EA400C709BE /* chinese idiom of the day Watch App */,
+				DC92D7EF2CFACBF80052B9CB /* Temp */,
+				DC894A0E2CF9893C00C709BE /* Frameworks */,
 				DC8949C62CF32EA400C709BE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -71,6 +136,7 @@
 			children = (
 				DC8949C52CF32EA400C709BE /* chinese idiom of the day.app */,
 				DC8949CB2CF32EA400C709BE /* chinese idiom of the day Watch App.app */,
+				DC92D7EC2CFACBF80052B9CB /* TempExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,6 +144,9 @@
 		DC8949CF2CF32EA400C709BE /* chinese idiom of the day Watch App */ = {
 			isa = PBXGroup;
 			children = (
+				DC894A222CF9A42000C709BE /* Components */,
+				DC8949F92CF60F8A00C709BE /* Utilis */,
+				DC8949E22CF33E6600C709BE /* Views */,
 				DC8949D02CF32EA400C709BE /* chinese_idiom_of_the_dayApp.swift */,
 				DC8949D22CF32EA400C709BE /* ContentView.swift */,
 				DC8949D42CF32EA700C709BE /* Assets.xcassets */,
@@ -92,6 +161,88 @@
 				DC8949D72CF32EA700C709BE /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		DC8949E22CF33E6600C709BE /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				DC8949EE2CF39B0B00C709BE /* HomeView.swift */,
+				DC8949F02CF39B2200C709BE /* LikesView.swift */,
+				DC8949FE2CF87F5F00C709BE /* SettingsView.swift */,
+				DC92D8402CFAE12F0052B9CB /* SingleIdiomView.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		DC8949F22CF409AC00C709BE /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				DC8949F32CF409CE00C709BE /* Color+Hex.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		DC8949F92CF60F8A00C709BE /* Utilis */ = {
+			isa = PBXGroup;
+			children = (
+				DC8949FA2CF60FBC00C709BE /* FavoritesManager.swift */,
+				DC894A052CF9871300C709BE /* IdiomNotifications.swift */,
+				DC894A252CF9CE1900C709BE /* Helper.swift */,
+			);
+			path = Utilis;
+			sourceTree = "<group>";
+		};
+		DC894A0E2CF9893C00C709BE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DC894A0F2CF9893C00C709BE /* WidgetKit.framework */,
+				DC894A112CF9893C00C709BE /* SwiftUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DC894A222CF9A42000C709BE /* Components */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		DC894A502CF9D79700C709BE /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				DC8949F22CF409AC00C709BE /* Extensions */,
+				DC894A552CF9D88B00C709BE /* Resources */,
+				DC894A512CF9D7B700C709BE /* Models */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		DC894A512CF9D7B700C709BE /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				DC894A522CF9D7C900C709BE /* Idiom.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		DC894A552CF9D88B00C709BE /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				DC8949FC2CF615E100C709BE /* idioms.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		DC92D7EF2CFACBF80052B9CB /* Temp */ = {
+			isa = PBXGroup;
+			children = (
+				DC92D7F02CFACBF80052B9CB /* Temp.swift */,
+				DC92D7F22CFACBF80052B9CB /* AppIntent.swift */,
+				DC92D7F42CFACBFA0052B9CB /* Assets.xcassets */,
+				DC92D7F62CFACBFA0052B9CB /* Info.plist */,
+			);
+			path = Temp;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -121,15 +272,34 @@
 				DC8949C72CF32EA400C709BE /* Sources */,
 				DC8949C82CF32EA400C709BE /* Frameworks */,
 				DC8949C92CF32EA400C709BE /* Resources */,
+				DC894A212CF9893D00C709BE /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				DC92D7F82CFACBFA0052B9CB /* PBXTargetDependency */,
 			);
 			name = "chinese idiom of the day Watch App";
 			productName = "chinese idiom of the day Watch App";
 			productReference = DC8949CB2CF32EA400C709BE /* chinese idiom of the day Watch App.app */;
 			productType = "com.apple.product-type.application";
+		};
+		DC92D7EB2CFACBF80052B9CB /* TempExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DC92D7FA2CFACBFA0052B9CB /* Build configuration list for PBXNativeTarget "TempExtension" */;
+			buildPhases = (
+				DC92D7E82CFACBF80052B9CB /* Sources */,
+				DC92D7E92CFACBF80052B9CB /* Frameworks */,
+				DC92D7EA2CFACBF80052B9CB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TempExtension;
+			productName = TempExtension;
+			productReference = DC92D7EC2CFACBF80052B9CB /* TempExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
@@ -145,6 +315,9 @@
 						CreatedOnToolsVersion = 15.3;
 					};
 					DC8949CA2CF32EA400C709BE = {
+						CreatedOnToolsVersion = 15.3;
+					};
+					DC92D7EB2CFACBF80052B9CB = {
 						CreatedOnToolsVersion = 15.3;
 					};
 				};
@@ -164,6 +337,7 @@
 			targets = (
 				DC8949C42CF32EA400C709BE /* chinese idiom of the day */,
 				DC8949CA2CF32EA400C709BE /* chinese idiom of the day Watch App */,
+				DC92D7EB2CFACBF80052B9CB /* TempExtension */,
 			);
 		};
 /* End PBXProject section */
@@ -181,7 +355,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				DC8949D82CF32EA700C709BE /* Preview Assets.xcassets in Resources */,
+				DC8949FD2CF615E100C709BE /* idioms.json in Resources */,
 				DC8949D52CF32EA700C709BE /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DC92D7EA2CFACBF80052B9CB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC92D7F52CFACBFA0052B9CB /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -192,8 +375,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC8949F42CF409CE00C709BE /* Color+Hex.swift in Sources */,
+				DC894A062CF9871300C709BE /* IdiomNotifications.swift in Sources */,
+				DC8949EF2CF39B0B00C709BE /* HomeView.swift in Sources */,
+				DC894A532CF9D7C900C709BE /* Idiom.swift in Sources */,
 				DC8949D32CF32EA400C709BE /* ContentView.swift in Sources */,
+				DC8949FB2CF60FBC00C709BE /* FavoritesManager.swift in Sources */,
+				DC894A262CF9CE1A00C709BE /* Helper.swift in Sources */,
 				DC8949D12CF32EA400C709BE /* chinese_idiom_of_the_dayApp.swift in Sources */,
+				DC8949F12CF39B2200C709BE /* LikesView.swift in Sources */,
+				DC8949FF2CF87F5F00C709BE /* SettingsView.swift in Sources */,
+				DC92D8412CFAE12F0052B9CB /* SingleIdiomView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DC92D7E82CFACBF80052B9CB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC92D7FD2CFACE4E0052B9CB /* Idiom.swift in Sources */,
+				DC92D7FF2CFAD3EF0052B9CB /* Color+Hex.swift in Sources */,
+				DC92D7F12CFACBF80052B9CB /* Temp.swift in Sources */,
+				DC92D7F32CFACBF80052B9CB /* AppIntent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -204,6 +407,11 @@
 			isa = PBXTargetDependency;
 			target = DC8949CA2CF32EA400C709BE /* chinese idiom of the day Watch App */;
 			targetProxy = DC8949CD2CF32EA400C709BE /* PBXContainerItemProxy */;
+		};
+		DC92D7F82CFACBFA0052B9CB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DC92D7EB2CFACBF80052B9CB /* TempExtension */;
+			targetProxy = DC92D7F72CFACBFA0052B9CB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -325,14 +533,16 @@
 		DC8949DC2CF32EA700C709BE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"chinese idiom of the day Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = 77Q9MW98W6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "chinese idiom of the day";
+				INFOPLIST_KEY_CFBundleDisplayName = Chengyu;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -347,21 +557,23 @@
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 4;
-				WATCHOS_DEPLOYMENT_TARGET = 10.4;
+				WATCHOS_DEPLOYMENT_TARGET = 10.0;
 			};
 			name = Debug;
 		};
 		DC8949DD2CF32EA700C709BE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"chinese idiom of the day Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = 77Q9MW98W6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "chinese idiom of the day";
+				INFOPLIST_KEY_CFBundleDisplayName = Chengyu;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -377,7 +589,7 @@
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 4;
 				VALIDATE_PRODUCT = YES;
-				WATCHOS_DEPLOYMENT_TARGET = 10.4;
+				WATCHOS_DEPLOYMENT_TARGET = 10.0;
 			};
 			name = Release;
 		};
@@ -387,6 +599,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 77Q9MW98W6;
 				INFOPLIST_KEY_CFBundleDisplayName = "chinese idiom of the day";
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.akacoder404.chinese-idiom-of-the-day";
@@ -402,6 +615,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 77Q9MW98W6;
 				INFOPLIST_KEY_CFBundleDisplayName = "chinese idiom of the day";
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.akacoder404.chinese-idiom-of-the-day";
@@ -409,6 +623,67 @@
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
 				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DC92D7FB2CFACBFA0052B9CB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 77Q9MW98W6;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Temp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Temp;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.akacoder404.chinese-idiom-of-the-day.watchkitapp.Temp";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 10.0;
+			};
+			name = Debug;
+		};
+		DC92D7FC2CFACBFA0052B9CB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 77Q9MW98W6;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Temp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Temp;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.akacoder404.chinese-idiom-of-the-day.watchkitapp.Temp";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 10.0;
 			};
 			name = Release;
 		};
@@ -438,6 +713,15 @@
 			buildConfigurations = (
 				DC8949E02CF32EA700C709BE /* Debug */,
 				DC8949E12CF32EA700C709BE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DC92D7FA2CFACBFA0052B9CB /* Build configuration list for PBXNativeTarget "TempExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DC92D7FB2CFACBFA0052B9CB /* Debug */,
+				DC92D7FC2CFACBFA0052B9CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

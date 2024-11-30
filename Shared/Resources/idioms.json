@@ -1,0 +1,978 @@
+[
+    {
+        "id": "0",
+        "pinyin": "liáng yào kǔ kǒu",
+        "idiom": "良药苦口",
+        "translation": "Good medicine tastes bitter.",
+        "examples": [
+            {
+                "sentence": "良药苦口，但为了健康，我们必须坚持服用。",
+                "translation": "Good medicine tastes bitter, but we must take it for our health."
+            },
+            {
+                "sentence": "医生劝他记住良药苦口的道理，好好养病。",
+                "translation": "The doctor advised him to remember that good medicine tastes bitter and to take care of his health."
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "pinyin": "shàn yǒu shàn bào",
+        "idiom": "善有善报",
+        "translation": "Repay good with good.",
+        "examples": [
+            {
+                "sentence": "他深信善有善报，总是乐于帮助别人。",
+                "translation": "He firmly believes in repaying good with good and is always happy to help others."
+            },
+            {
+                "sentence": "在这个故事中，善有善报是中心主题。",
+                "translation": "In this story, repaying good with good is the central theme."
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "pinyin": "nì lái shùn shòu",
+        "idiom": "逆来顺受",
+        "translation": "When adversity comes, receive it favorably.",
+        "examples": [
+            {
+                "sentence": "面对困难，他选择了逆来顺受的态度。",
+                "translation": "In the face of difficulties, he chose to adopt a tolerant attitude."
+            },
+            {
+                "sentence": "逆来顺受并不意味着放弃，而是接受现状并努力改善。",
+                "translation": "Receiving adversity favorably doesn’t mean giving up but rather accepting and striving for improvement."
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "pinyin": "pǐ jí tài lái",
+        "idiom": "否极泰来",
+        "translation": "Peace replaces extreme evil.",
+        "examples": [
+            {
+                "sentence": "经历了一段艰难的时光后，他相信否极泰来。",
+                "translation": "After going through a tough time, he believed that peace would come."
+            },
+            {
+                "sentence": "否极泰来提醒我们，坏事终将过去。",
+                "translation": "The saying reminds us that bad times will eventually pass."
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "pinyin": "nán dé hú tu",
+        "idiom": "难得糊涂",
+        "translation": "Ignorance is bliss.",
+        "examples": [
+            {
+                "sentence": "有时候，难得糊涂会让生活更简单。",
+                "translation": "Sometimes, ignorance is bliss and makes life simpler."
+            },
+            {
+                "sentence": "他总是提醒自己，难得糊涂，少争辩。",
+                "translation": "He always reminds himself that ignorance is bliss and avoids arguments."
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "pinyin": "yī jǔ liǎng dé",
+        "idiom": "一举两得",
+        "translation": "Two benefits from one action.",
+        "examples": [
+            {
+                "sentence": "这次旅行不仅放松了心情，还增进了感情，真是一举两得。",
+                "translation": "This trip not only relaxed us but also deepened our relationship, truly killing two birds with one stone."
+            },
+            {
+                "sentence": "参加志愿活动既帮助别人，又丰富了自己的经验，一举两得。",
+                "translation": "Volunteering helps others and enriches your own experience, killing two birds with one stone."
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "pinyin": "lóng téng hǔ yuè",
+        "idiom": "龙腾虎跃",
+        "translation": "Dragons soaring and tigers leaping.",
+        "examples": [
+            {
+                "sentence": "庆典上人们跳起了舞，场面如龙腾虎跃般热闹。",
+                "translation": "At the celebration, people danced enthusiastically, resembling dragons soaring and tigers leaping."
+            },
+            {
+                "sentence": "运动会的现场真是龙腾虎跃，热闹非凡。",
+                "translation": "The sports meet was vibrant and lively, like dragons soaring and tigers leaping."
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "pinyin": "yè gōng hào long",
+        "idiom": "叶公好龙",
+        "translation": "Lord Ye loves dragons.",
+        "examples": [
+            {
+                "sentence": "他就像叶公好龙，说喜欢冒险，但实际上害怕危险。",
+                "translation": "He's like Lord Ye, claiming to love adventure but actually fearing danger."
+            },
+            {
+                "sentence": "你真是叶公好龙，只敢说不敢做。",
+                "translation": "You’re just like Lord Ye, all talk and no action."
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "pinyin": "shēn tǐ lì xíng",
+        "idiom": "身体力行",
+        "translation": "A body acts according to physical strength.",
+        "examples": [
+            {
+                "sentence": "他身体力行，亲自参与环保活动。",
+                "translation": "He practiced what he preached and personally participated in environmental activities."
+            },
+            {
+                "sentence": "领导者应以身作则，身体力行。",
+                "translation": "A leader should set an example by personally taking action."
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "pinyin": "ai wū jí wū",
+        "idiom": "爱屋及乌",
+        "translation": "Love the house and its crow.",
+        "examples": [
+            {
+                "sentence": "因为喜欢她，他对她的家人也爱屋及乌。",
+                "translation": "Because he liked her, he also cared for her family."
+            },
+            {
+                "sentence": "爱屋及乌，体现了宽广的胸怀。",
+                "translation": "Loving the house and its crow shows a broad mind."
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "pinyin": "lóng fēi fèng wǔ",
+        "idiom": "龙飞凤舞",
+        "translation": "The dragon flies and the phoenix dances.",
+        "examples": [
+            {
+                "sentence": "书法家写的字如龙飞凤舞，充满活力。",
+                "translation": "The calligrapher's writing resembles a dragon flying and a phoenix dancing, full of vitality."
+            },
+            {
+                "sentence": "舞台上的表演如龙飞凤舞，令人目不转睛。",
+                "translation": "The performance on stage was like a dragon flying and a phoenix dancing, mesmerizing everyone."
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "pinyin": "yí jiàn zhōng qíng",
+        "idiom": "一见钟情",
+        "translation": "Love at first sight.",
+        "examples": [
+            {
+                "sentence": "他们在聚会上相遇，并一见钟情。",
+                "translation": "They met at the party and fell in love at first sight."
+            },
+            {
+                "sentence": "有些人不相信一见钟情，但她改变了他的想法。",
+                "translation": "Some people don't believe in love at first sight, but she changed his mind."
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "pinyin": "lóng mǎ jīng shén",
+        "idiom": "龙马精神",
+        "translation": "A dragon's and a horse's spirit.",
+        "examples": [
+            {
+                "sentence": "他虽然年纪大了，但依然充满龙马精神。",
+                "translation": "Although he's aged, he is still full of the spirit of a dragon and a horse."
+            },
+            {
+                "sentence": "在比赛中，他展现出龙马精神，勇往直前。",
+                "translation": "In the competition, he displayed the spirit of a dragon and a horse, forging ahead bravely."
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "pinyin": "lóng tán hǔ xué",
+        "idiom": "龙潭虎穴",
+        "translation": "A dragon's pool and a tiger's den.",
+        "examples": [
+            {
+                "sentence": "要完成任务，他不得不闯入龙潭虎穴。",
+                "translation": "To complete the mission, he had to venture into the dragon's pool and the tiger's den."
+            },
+            {
+                "sentence": "龙潭虎穴的挑战让他更加坚强。",
+                "translation": "The challenges of the dragon's pool and the tiger's den made him stronger."
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "pinyin": "āi bīng bì shèng",
+        "idiom": "哀兵必胜",
+        "translation": "An aggrieved army is sure to win.",
+        "examples": [
+            {
+                "sentence": "哀兵必胜，他们的坚持让对手望而却步。",
+                "translation": "An aggrieved army is sure to win; their perseverance made the opponents back down."
+            },
+            {
+                "sentence": "即使处于劣势，他们也相信哀兵必胜的道理。",
+                "translation": "Even in a disadvantage, they believed in the principle that an aggrieved army is sure to win."
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "pinyin": "bù zuò bù sǐ",
+        "idiom": "不作不死",
+        "translation": "If you don't do stupid things you won't end up in tragedy.",
+        "examples": [
+            {
+                "sentence": "他明白不作不死的道理，尽量避免冒险行为。",
+                "translation": "He understands that if you don't do stupid things you won't end up in tragedy, so he avoids risky actions."
+            },
+            {
+                "sentence": "不作不死是对他最近行为的最好总结。",
+                "translation": "The phrase 'if you don't do stupid things you won't end up in tragedy' perfectly summarizes his recent behavior."
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "pinyin": "jié zú xiān dēng",
+        "idiom": "捷足先登",
+        "translation": "The quick-footed climb first.",
+        "examples": [
+            {
+                "sentence": "捷足先登的机会总是留给有准备的人。",
+                "translation": "The opportunity to climb first is always reserved for those who are prepared."
+            },
+            {
+                "sentence": "他捷足先登，占据了有利的位置。",
+                "translation": "He was quick-footed and climbed first, securing an advantageous position."
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "pinyin": "dà zhì ruò yú",
+        "idiom": "大智若愚",
+        "translation": "Great wisdom can seem foolish.",
+        "examples": [
+            {
+                "sentence": "大智若愚的人往往在关键时刻展现智慧。",
+                "translation": "Those with great wisdom often show their intelligence at critical moments."
+            },
+            {
+                "sentence": "他的行为看似简单，其实是大智若愚的表现。",
+                "translation": "His actions seem simple, but they are actually a sign of great wisdom that seems foolish."
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "pinyin": "zhī yīn nán mì",
+        "idiom": "知音难觅",
+        "translation": "An intimate friend is hard to find.",
+        "examples": [
+            {
+                "sentence": "知音难觅，他感慨能遇到志同道合的朋友。",
+                "translation": "An intimate friend is hard to find; he was grateful to meet someone like-minded."
+            },
+            {
+                "sentence": "他们的友谊让人感叹知音难觅的珍贵。",
+                "translation": "Their friendship made people appreciate how precious it is to find an intimate friend."
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "pinyin": "bīng bù yàn zhà",
+        "idiom": "兵不厌诈",
+        "translation": "Soldiers don't hate deceit.",
+        "examples": [
+            {
+                "sentence": "战场上兵不厌诈，聪明的策略至关重要。",
+                "translation": "On the battlefield, soldiers don't hate deceit; clever strategies are crucial."
+            },
+            {
+                "sentence": "兵不厌诈，这次胜利归功于他的战术天才。",
+                "translation": "Soldiers don't hate deceit; this victory was thanks to his tactical genius."
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "pinyin": "huò cóng kǒu chū",
+        "idiom": "祸从口出",
+        "translation": "Disaster comes from careless talk.",
+        "examples": [
+            {
+                "sentence": "他说话从不注意，小心祸从口出。",
+                "translation": "He never watches his words; beware, disaster comes from careless talk."
+            },
+            {
+                "sentence": "祸从口出，别说那些没必要的话。",
+                "translation": "Disaster comes from careless talk; don't say things that aren't necessary."
+            }
+        ]
+    },
+    {
+        "id": "21",
+        "pinyin": "shuǐ mǎn zé yì",
+        "idiom": "水满则溢",
+        "translation": "Water flows in only to flow out.",
+        "examples": [
+            {
+                "sentence": "水满则溢，凡事都要适度。",
+                "translation": "Water flows in only to flow out; everything should be done in moderation."
+            },
+            {
+                "sentence": "他提醒我们，水满则溢，要懂得控制情绪。",
+                "translation": "He reminded us that water flows in only to flow out; we should learn to control our emotions."
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "pinyin": "yú lóng hùn zá",
+        "idiom": "鱼龙混杂",
+        "translation": "A muddled mix of fish and dragons.",
+        "examples": [
+            {
+                "sentence": "市场上鱼龙混杂，得擦亮眼睛。",
+                "translation": "The market is a mix of fish and dragons; you need to be cautious."
+            },
+            {
+                "sentence": "这次活动中鱼龙混杂，有些人不可信。",
+                "translation": "This event is a mix of fish and dragons; some people are not trustworthy."
+            }
+        ]
+    },
+    {
+        "id": "23",
+        "pinyin": "huà lóng diǎn jīng",
+        "idiom": "画龙点睛",
+        "translation": "Paint a dragon and dot the eye.",
+        "examples": [
+            {
+                "sentence": "这个细节为整个计划画龙点睛。",
+                "translation": "This detail was the final touch that brought the whole plan to life."
+            },
+            {
+                "sentence": "他的建议真是画龙点睛，让项目更加完美。",
+                "translation": "His suggestion was the final touch, making the project even better."
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "pinyin": "chéng qián bì hòu",
+        "idiom": "惩前毖后",
+        "translation": "Punishing those who come before stops those who come after from doing something.",
+        "examples": [
+            {
+                "sentence": "通过惩前毖后，我们可以防止未来的错误。",
+                "translation": "By punishing those who come before, we can prevent future mistakes."
+            },
+            {
+                "sentence": "惩前毖后，目的是让大家吸取教训。",
+                "translation": "Punishing those who come before aims to make everyone learn a lesson."
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "pinyin": "chē shuǐ mǎ long",
+        "idiom": "车水马龙",
+        "translation": "Carriages like a stream and horses like a dragon.",
+        "examples": [
+            {
+                "sentence": "城市的街道上车水马龙，十分繁忙。",
+                "translation": "The city's streets are bustling with traffic, like a stream of carriages and horses."
+            },
+            {
+                "sentence": "这条路车水马龙，是个商业中心。",
+                "translation": "This road is bustling with traffic; it’s a commercial hub."
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "pinyin": "shì wài táo yuán",
+        "idiom": "世外桃源",
+        "translation": "An imaginary, ideal place separated from this world; a utopia.",
+        "examples": [
+            {
+                "sentence": "这个地方犹如世外桃源，远离尘嚣。",
+                "translation": "This place is like a utopia, far from the bustling world."
+            },
+            {
+                "sentence": "他想找到自己的世外桃源，过安静的生活。",
+                "translation": "He wants to find his own utopia and live a peaceful life."
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "pinyin": "nǐ sǐ wǒ huó",
+        "idiom": "你死我活",
+        "translation": "Either you die or I live; used to describe a fierce fight.",
+        "examples": [
+            {
+                "sentence": "两队在球场上展开了一场你死我活的比赛。",
+                "translation": "The two teams had a fierce fight on the field."
+            },
+            {
+                "sentence": "这场竞争几乎是你死我活，双方毫不退让。",
+                "translation": "This competition was nearly a matter of life and death, with neither side backing down."
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "pinyin": "huā huā gōng zǐ",
+        "idiom": "花花公子",
+        "translation": "Playboy.",
+        "examples": [
+            {
+                "sentence": "他是个花花公子，总是换女朋友。",
+                "translation": "He's a playboy, always changing girlfriends."
+            },
+            {
+                "sentence": "花花公子的生活并不总是幸福的。",
+                "translation": "The life of a playboy is not always happy."
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "pinyin": "yīn guǒ bào yìng",
+        "idiom": "因果报应",
+        "translation": "Karma.",
+        "examples": [
+            {
+                "sentence": "他深信因果报应，所以善待他人。",
+                "translation": "He firmly believes in karma, so he treats others kindly."
+            },
+            {
+                "sentence": "因果报应教会了我们要对行为负责。",
+                "translation": "Karma teaches us to take responsibility for our actions."
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "pinyin": "sì céng xiāng shí",
+        "idiom": "似曾相识",
+        "translation": "Like déjà vu.",
+        "examples": [
+            {
+                "sentence": "这个场景让我有种似曾相识的感觉。",
+                "translation": "This scene gives me a feeling of déjà vu."
+            },
+            {
+                "sentence": "她的笑容让我似曾相识，好像在哪里见过。",
+                "translation": "Her smile feels familiar, as if I've seen it somewhere before."
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "pinyin": "hú yán luàn yǔ",
+        "idiom": "胡言乱语",
+        "translation": "To talk nonsense.",
+        "examples": [
+            {
+                "sentence": "他喝醉了开始胡言乱语，没人听懂他在说什么。",
+                "translation": "He got drunk and started talking nonsense; no one understood what he was saying."
+            },
+            {
+                "sentence": "不要听信他的胡言乱语，他在开玩笑。",
+                "translation": "Don't believe his nonsense; he's joking."
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "pinyin": "jí lè shì jiè",
+        "idiom": "极乐世界",
+        "translation": "(Buddhist term) where Amitabha Buddha lives; Elysium.",
+        "examples": [
+            {
+                "sentence": "他一直向往极乐世界，希望有一天能得到解脱。",
+                "translation": "He has always longed for Elysium, hoping for liberation one day."
+            },
+            {
+                "sentence": "这本书描写了一个像极乐世界般的美好地方。",
+                "translation": "This book describes a beautiful place like Elysium."
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "pinyin": "liǎng xiǎo wú cāi",
+        "idiom": "两小无猜",
+        "translation": "Describes the relationship between a man and a woman as innocent childhood playmates.",
+        "examples": [
+            {
+                "sentence": "他们小时候是两小无猜的伙伴，长大后成了夫妻。",
+                "translation": "They were innocent childhood playmates and later became a couple."
+            },
+            {
+                "sentence": "两小无猜的友谊最纯真，也最难忘。",
+                "translation": "The friendship of innocent childhood playmates is the purest and most unforgettable."
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "pinyin": "zì shí qí lì",
+        "idiom": "自食其力",
+        "translation": "To earn one's living.",
+        "examples": [
+            {
+                "sentence": "他从小就学会了自食其力，从不依赖他人。",
+                "translation": "He learned to earn his living at a young age and never relied on others."
+            },
+            {
+                "sentence": "自食其力的人最值得尊敬。",
+                "translation": "Those who earn their living are the most respectable."
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "pinyin": "gōu xīn dòu jiǎo",
+        "idiom": "勾心斗角",
+        "translation": "Intrigue; malicious competition.",
+        "examples": [
+            {
+                "sentence": "职场上的勾心斗角让他感到疲惫。",
+                "translation": "The intrigue in the workplace made him feel exhausted."
+            },
+            {
+                "sentence": "与其参与勾心斗角，不如专注自己的工作。",
+                "translation": "Instead of engaging in intrigue, focus on your own work."
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "pinyin": "gū lì wú yuán",
+        "idiom": "孤立无援",
+        "translation": "To be isolated and cut off from help.",
+        "examples": [
+            {
+                "sentence": "在那场战争中，他感到孤立无援。",
+                "translation": "During that war, he felt isolated and without help."
+            },
+            {
+                "sentence": "面对困境，她从未觉得孤立无援，总有人支持她。",
+                "translation": "In difficult times, she never felt isolated and helpless; there was always someone to support her."
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "pinyin": "zì yǐ wéi shì",
+        "idiom": "自以为是",
+        "translation": "For one person to think they are always right; to be not modest.",
+        "examples": [
+            {
+                "sentence": "他太自以为是，听不进别人的意见。",
+                "translation": "He's too self-righteous to listen to others' opinions."
+            },
+            {
+                "sentence": "一个人如果总是自以为是，很难进步。",
+                "translation": "If someone always thinks they're right, it's hard for them to improve."
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "pinyin": "ài bù shì shǒu",
+        "idiom": "爱不释手",
+        "translation": "To like something so much that one wouldn't let go of it.",
+        "examples": [
+            {
+                "sentence": "她对那本新书爱不释手，整天捧着看。",
+                "translation": "She loved that new book so much that she couldn't put it down."
+            },
+            {
+                "sentence": "他对这款手机爱不释手，连睡觉都放在身边。",
+                "translation": "He loves this phone so much that he keeps it by his side even while sleeping."
+            }
+        ]
+    },
+    {
+        "id": "39",
+        "pinyin": "quán xīn quán yì",
+        "idiom": "全心全意",
+        "translation": "Whole-heartedly.",
+        "examples": [
+            {
+                "sentence": "他全心全意投入工作，希望取得好成绩。",
+                "translation": "He devoted himself whole-heartedly to his work, hoping to achieve good results."
+            },
+            {
+                "sentence": "老师全心全意地为学生们付出。",
+                "translation": "The teacher dedicated herself whole-heartedly to her students."
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "pinyin": "wàn wú yī shī",
+        "idiom": "万无一失",
+        "translation": "Absolutely safe or sure that there will be no mistakes.",
+        "examples": [
+            {
+                "sentence": "为了万无一失，他又检查了一遍计划。",
+                "translation": "To ensure there were no mistakes, he double-checked the plan."
+            },
+            {
+                "sentence": "这次任务准备得万无一失，大家可以放心。",
+                "translation": "This task was prepared flawlessly; everyone can rest assured."
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "pinyin": "wú lùn rú hé",
+        "idiom": "无论如何",
+        "translation": "No matter how.",
+        "examples": [
+            {
+                "sentence": "无论如何，我都会完成这个任务。",
+                "translation": "No matter how, I will complete this task."
+            },
+            {
+                "sentence": "无论如何，保持积极的态度很重要。",
+                "translation": "No matter how, it’s important to stay positive."
+            }
+        ]
+    },
+    {
+        "id": "42",
+        "pinyin": "jiāng gōng shú zuì",
+        "idiom": "将功赎罪",
+        "translation": "Atone for a crime/mistake by doing good deeds.",
+        "examples": [
+            {
+                "sentence": "他试图通过帮助别人将功赎罪。",
+                "translation": "He tried to atone for his mistakes by helping others."
+            },
+            {
+                "sentence": "将功赎罪的机会让他重新赢得了信任。",
+                "translation": "The chance to atone for his mistake allowed him to regain trust."
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "pinyin": "liǎng xiù qīng fēng",
+        "idiom": "两袖清风",
+        "translation": "There’s nothing hiding in the sleeves, describes an honest official or person with power; also indicates poverty.",
+        "examples": [
+            {
+                "sentence": "他为官多年，依然两袖清风，深受百姓爱戴。",
+                "translation": "He has been an official for years but remains honest and admired by the people."
+            },
+            {
+                "sentence": "虽然家境贫寒，但他两袖清风，始终坚持自己的原则。",
+                "translation": "Although his family is poor, he remains honest and sticks to his principles."
+            }
+        ]
+    },
+    {
+        "id": "44",
+        "pinyin": "rè lèi yíng kuàng",
+        "idiom": "热泪盈眶",
+        "translation": "Eyes brimming with tears (usually out of excitement, sadness, or grief).",
+        "examples": [
+            {
+                "sentence": "听到儿子考上大学的消息，她激动得热泪盈眶。",
+                "translation": "Hearing the news that her son got into college, she was so excited her eyes brimmed with tears."
+            },
+            {
+                "sentence": "老战友相见，他激动得热泪盈眶。",
+                "translation": "Meeting his old comrade, he was so moved that his eyes brimmed with tears."
+            }
+        ]
+    },
+    {
+        "id": "45",
+        "pinyin": "róng huá fù guì",
+        "idiom": "荣华富贵",
+        "translation": "Nabobism; great wealth.",
+        "examples": [
+            {
+                "sentence": "他追求的不仅是荣华富贵，还有内心的平静。",
+                "translation": "He seeks not only great wealth but also inner peace."
+            },
+            {
+                "sentence": "荣华富贵并不能带来真正的幸福。",
+                "translation": "Great wealth cannot bring true happiness."
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "pinyin": "xíng shī zǒu ròu",
+        "idiom": "行尸走肉",
+        "translation": "The walking dead, describes an utterly useless person.",
+        "examples": [
+            {
+                "sentence": "他每天无所事事，活得像行尸走肉。",
+                "translation": "He lives like the walking dead, doing nothing meaningful every day."
+            },
+            {
+                "sentence": "没有目标的人容易变成行尸走肉。",
+                "translation": "People without goals easily become like the walking dead."
+            }
+        ]
+    },
+    {
+        "id": "47",
+        "pinyin": "yī míng jīng rén",
+        "idiom": "一鸣惊人",
+        "translation": "To become famous overnight.",
+        "examples": [
+            {
+                "sentence": "她在比赛中表现出色，一鸣惊人。",
+                "translation": "She performed brilliantly in the competition and became famous overnight."
+            },
+            {
+                "sentence": "他的发明让他一鸣惊人，被业界所认可。",
+                "translation": "His invention made him famous overnight and earned industry recognition."
+            }
+        ]
+    },
+    {
+        "id": "48",
+        "pinyin": "yī shēng yī shì",
+        "idiom": "一生一世",
+        "translation": "All one's life; one's whole lifetime.",
+        "examples": [
+            {
+                "sentence": "他们承诺彼此相伴一生一世。",
+                "translation": "They promised to stay together all their lives."
+            },
+            {
+                "sentence": "一生一世的爱，需要彼此珍惜。",
+                "translation": "A love that lasts a lifetime requires mutual cherishing."
+            }
+        ]
+    },
+    {
+        "id": "49",
+        "pinyin": "yǔ zhòng bù tóng",
+        "idiom": "与众不同",
+        "translation": "To be different from everyone else.",
+        "examples": [
+            {
+                "sentence": "她的设计风格与众不同，非常有创意。",
+                "translation": "Her design style is different from everyone else's, very creative."
+            },
+            {
+                "sentence": "他总是与众不同，有独特的见解。",
+                "translation": "He is always different from others and has unique insights."
+            }
+        ]
+    },
+    {
+        "id": "50",
+        "pinyin": "dú yī wú èr",
+        "idiom": "独一无二",
+        "translation": "Unique, with nothing comparable to it.",
+        "examples": [
+            {
+                "sentence": "这件艺术品独一无二，非常珍贵。",
+                "translation": "This piece of art is unique and extremely valuable."
+            },
+            {
+                "sentence": "他有一种独一无二的幽默感，让人印象深刻。",
+                "translation": "He has a unique sense of humor that leaves a deep impression."
+            }
+        ]
+    },
+    {
+        "id": "51",
+        "pinyin": "mèng mèi yǐ qiú",
+        "idiom": "梦寐以求",
+        "translation": "To yearn for something day and night; dream of something.",
+        "examples": [
+            {
+                "sentence": "考上名牌大学是他梦寐以求的目标。",
+                "translation": "Getting into a prestigious university is his dream."
+            },
+            {
+                "sentence": "她终于实现了梦寐以求的愿望，成为了一名医生。",
+                "translation": "She finally achieved her dream of becoming a doctor."
+            }
+        ]
+    },
+    {
+        "id": "52",
+        "pinyin": "nán yǐ zhì xìn",
+        "idiom": "难以置信",
+        "translation": "Hard to believe.",
+        "examples": [
+            {
+                "sentence": "这个结果让人难以置信。",
+                "translation": "This result is hard to believe."
+            },
+            {
+                "sentence": "她的成功故事难以置信，但却是真的。",
+                "translation": "Her success story is hard to believe, but it is true."
+            }
+        ]
+    },
+    {
+        "id": "53",
+        "pinyin": "wú shāng dà yǎ",
+        "idiom": "无伤大雅",
+        "translation": "No serious harm is done.",
+        "examples": [
+            {
+                "sentence": "这次比赛的失误无伤大雅，队员们仍表现出色。",
+                "translation": "The mistake in the competition caused no serious harm; the team still performed well."
+            },
+            {
+                "sentence": "虽然有点小问题，但整体无伤大雅。",
+                "translation": "Although there were minor issues, they did not affect the overall outcome."
+            }
+        ]
+    },
+    {
+        "id": "54",
+        "pinyin": "yī lù shùn fēng",
+        "idiom": "一路顺风",
+        "translation": "A saying to travelers: to wish them a safe and pleasant journey.",
+        "examples": [
+            {
+                "sentence": "祝你一路顺风，平安到达目的地。",
+                "translation": "Wishing you a safe and pleasant journey to your destination."
+            },
+            {
+                "sentence": "他们挥手告别，互相祝福一路顺风。",
+                "translation": "They waved goodbye, wishing each other a safe journey."
+            }
+        ]
+    },
+    {
+        "id": "55",
+        "pinyin": "bà wáng bié jī",
+        "idiom": "霸王别姬",
+        "translation": "The Hegemon-King bids farewell to his concubine, describes the end of a hero.",
+        "examples": [
+            {
+                "sentence": "这部电影取材于‘霸王别姬’的故事，非常感人。",
+                "translation": "This film is based on the story of 'The Hegemon-King bids farewell to his concubine' and is very touching."
+            },
+            {
+                "sentence": "霸王别姬的历史典故蕴含了深刻的悲剧色彩。",
+                "translation": "The historical tale of 'The Hegemon-King bids farewell to his concubine' is deeply tragic."
+            }
+        ]
+    },
+    {
+        "id": "56",
+        "pinyin": "chéng fēng pò làng",
+        "idiom": "乘风破浪",
+        "translation": "Describes a boat that moves forward riding the wind and waves.",
+        "examples": [
+            {
+                "sentence": "年轻人应当勇敢乘风破浪，追求梦想。",
+                "translation": "Young people should bravely ride the wind and waves to pursue their dreams."
+            },
+            {
+                "sentence": "公司在市场竞争中乘风破浪，取得了佳绩。",
+                "translation": "The company rode the wind and waves in the market competition and achieved great results."
+            }
+        ]
+    },
+    {
+        "id": "57",
+        "pinyin": "fáng huàn wèi rán",
+        "idiom": "防患未然",
+        "translation": "To take preventive measures before troubles occur.",
+        "examples": [
+            {
+                "sentence": "定期检查设备是防患未然的重要措施。",
+                "translation": "Regularly checking equipment is an important measure to prevent problems before they occur."
+            },
+            {
+                "sentence": "我们应该未雨绸缪，防患未然。",
+                "translation": "We should plan ahead to prevent problems before they happen."
+            }
+        ]
+    },
+    {
+        "id": "58",
+        "pinyin": "guī xīn sì jiàn",
+        "idiom": "归心似箭",
+        "translation": "Eager to come home.",
+        "examples": [
+            {
+                "sentence": "临近春节，游子们都归心似箭。",
+                "translation": "As the Spring Festival approaches, travelers are eager to return home."
+            },
+            {
+                "sentence": "工作结束后，他归心似箭地赶回家。",
+                "translation": "After finishing work, he eagerly rushed home."
+            }
+        ]
+    },
+    {
+        "id": "59",
+        "pinyin": "hóng nán lǜ nǚ",
+        "idiom": "红男绿女",
+        "translation": "Fashionably dressed men and women.",
+        "examples": [
+            {
+                "sentence": "晚会现场红男绿女，气氛热闹非凡。",
+                "translation": "At the party, fashionably dressed men and women created a lively atmosphere."
+            },
+            {
+                "sentence": "婚礼上红男绿女的装扮非常抢眼。",
+                "translation": "The fashionably dressed men and women at the wedding were very eye-catching."
+            }
+        ]
+    },
+    {
+        "id": "60",
+        "pinyin": "huáng jīn shí dài",
+        "idiom": "黄金时代",
+        "translation": "Golden age; the most precious period of one's (or a country's) life.",
+        "examples": [
+            {
+                "sentence": "青年时期是人生的黄金时代，应该好好把握。",
+                "translation": "Youth is the golden age of life and should be cherished."
+            },
+            {
+                "sentence": "这本书记录了艺术发展的黄金时代。",
+                "translation": "This book documents the golden age of art development."
+            }
+        ]
+    }
+]

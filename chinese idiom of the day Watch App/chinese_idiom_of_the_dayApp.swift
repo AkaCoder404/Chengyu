@@ -9,9 +9,19 @@ import SwiftUI
 
 @main
 struct chinese_idiom_of_the_day_Watch_AppApp: App {
+    init() {
+        // Request notification permission on app launch
+        requestNotificationPermission()
+        
+        // Schedule daily notifications
+        scheduleNotificationsIfAllowed()
+    }
+        
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
     }
 }
+
+
